@@ -1,0 +1,23 @@
+Todo:
+	Gameplay:
+		Find physics balance of gravity/acceleration/etc
+		Fix collision detection: don't take average, take max.
+		Capture ball death.
+		Friction of vektors?
+		Ball world switch:
+			Get appropriate vektors
+			Ball stuck in walls (dummy vektors)
+		Smoother camera: lag behind a bit?
+		
+	GameStructure:
+		Images for green/blue tiles?
+		Moving walkways:
+			entities extend tiles or tiles extend entities?
+			where in the game loop fit in?
+			Maybe *all* tiles can move?!?!?!?! 
+			
+	LevelEditor:
+		Everything is currently saved as a tile. Perhaps LevelPieces should know
+			how to write themselves to db?
+		
+		
