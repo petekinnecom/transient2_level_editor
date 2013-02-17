@@ -29,6 +29,8 @@ Development notes:
 
   - Current behavior is reasonable, with the occasional oddity.
 
+.
+
 - Model, View, Controller each run in their own thread.
 
 - Controller and View code already ported to Android.
