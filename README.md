@@ -1,6 +1,8 @@
 Transient 2 Desktop Level Editor
 =======================
 
+See the first version of Transient on [Google Play](https://play.google.com/store/apps/details?id=org.petekinnecom.transient_&hl=en).  
+
 A java application for creating and testing levels for the next version of Transient.  You can run this app by cloning this repo and running the executable 'editor.jar'. 
 
 Basic Instruction:
